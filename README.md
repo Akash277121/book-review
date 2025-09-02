@@ -40,7 +40,4 @@ A full-stack web application that allows users to view books, submit reviews, an
 
 #### Backend
 
-1. Clone the repository:
-   ```bash
-   git clone  https://github.com/Amansingh-06/-Book-Review-Platform.git
-   cd backend
+
